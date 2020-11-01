@@ -48,6 +48,6 @@ Zoniferol	53.236507	51.818479	48.533355	6.966589	0.516398
 
 4. The box plotting also confirms the previous conclusion. The final tumor volumes vary from 20 to 70 mm3.
 
-5. From Line and Scatter Plots, The mouse was used to plot is s185. From the chart, **the tumor volume decreases as the time goes in a linear way**, changing from 45 mm3 to around 23 mm3.
+5. From Line and Scatter Plots, The mouse was used to plot is s185. From the chart, **the tumor volume decreases linearly as the time goes**, changing from 45 mm3 to around 23 mm3.
 
 6. A linear regression model was applied on the scatter chart. The correlation coefficient is 0.84194, which means it behaves a **strong correlation** between the *mouse weight and average tumor volume* (0.7~0.9).
